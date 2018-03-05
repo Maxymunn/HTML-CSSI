@@ -1,0 +1,144 @@
+.leia-mais {
+  padding: 8px;
+  margin: 16px;
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  background-color: #E6E7E8;;
+}
+.social-icon a{
+  display: block;
+  height: 40px;
+  width: 40px;
+  font-size: 0;
+  /* text-indent: -99999px; */
+}
+.social-icon li{
+  display: inline-block;
+}
+.nav-site {
+  background-color: #3C1D3D;
+  color: #F2FFFC;
+  padding: 20px;
+  text-align: center;
+}
+aside a{ 
+  color: inherit;
+  font-family: "Open Sans Condensed", "Arial", sans-serif;
+  text-decoration: none;
+}
+aside h1{
+  font-size: 30px;
+  margin: 25px 0;
+}
+.quote{
+  background: #D9E5E3;
+  padding: 20px;
+  border: 10px solid #C2CCCA;
+  width: 250px;
+  box-sizing: border-box;
+  margin: 20px 40px;
+}
+.quote cite{
+    font-style: italic;
+}
+.fiat{
+  float: right;
+}
+.petrobras{
+  float: left;
+}
+div{
+  width: 720px;
+  margin: 0 auto;
+}
+em{
+  font-style: italic;
+}
+.rodape{
+  background: #000000;
+  color: #F2FFFC;
+  padding: 20px;
+}
+h1, h2{
+  font-family: "Open Sans Condensed", "Arial", sans-serif;
+  clear: both;
+}
+h1{
+  text-transform: uppercase;    
+}
+main div{
+  padding: 30px 0;
+}
+main h1{
+  background-color: #851944;
+  color: #fffffa;
+  font-size: 60px;
+  text-align: center;
+  padding: 25px;
+  border-bottom: 10px solid #000000;
+}
+main h2{
+  font-size: 30px;
+}
+main a{
+  color: #851944;
+}
+nav a{
+  color: #F2FFFC;
+  text-transform: lowercase;    
+}
+nav{
+  background: #3C1D3D;
+}
+p{
+  margin: 20px 0;
+  text-align: justify;
+}
+article{
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+}
+strong{
+  font-weight: bold;
+}
+.github{
+  background-image: url(github.png);
+}
+.linkedin{
+  background-image: url(linkedin.png);
+}
+.twitter{
+  background-image: url(twitter.png);
+}
+aside, img{
+  width: 15%;
+  clear: right;
+  float: right;
+  border-left: 10px solid black;
+  border-bottom: 10px solid black;
+  box-sizing: border-box;
+  position: absolute;
+  top: 300px;
+  right: 0;
+}
+.minha-foto{
+  width: 300px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+main{
+  width: 85%;
+  float: left;
+  padding-bottom: 80px;
+}
+footer{
+  clear: both;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
